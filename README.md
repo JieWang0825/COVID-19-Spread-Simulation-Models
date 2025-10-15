@@ -81,6 +81,7 @@ The framework bridges theoretical epidemiology and computational simulation, off
 
 ## 📷 Visualization Examples
 
+| Model | Example Graph |
 |--------|---------------|
 | spread | ![spread Example](1-3.png) |
 | spread+mutation | ![spread+mutation Example](2-3.png) |
