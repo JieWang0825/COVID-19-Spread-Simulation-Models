@@ -81,6 +81,10 @@ The framework bridges theoretical epidemiology and computational simulation, off
 
 ## 📷 Visualization Examples
 
-```markdown
-![Infection Spread Over Time](figures/spread_hexgrid_t50.png)
-![Effect of Vaccination](figures/vaccination_comparison.png)
+|--------|---------------|
+| spread | ![spread Example](1-3.png) |
+| spread+mutation | ![spread+mutation Example](2-3.png) |
+| spread+mutation+vaccination | ![spread+mutation+vaccination Example](3-3.png) |
+
+
+---
